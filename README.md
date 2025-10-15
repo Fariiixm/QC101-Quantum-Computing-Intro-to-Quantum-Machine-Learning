@@ -1,6 +1,6 @@
 <div align="center">
   <h1> QC101 Quantum Computing & Intro to Quantum Machine Learning </h1>
-  <p><strong>Código del Curso Best-Seller de Udemy</strong></p>
+ 
   <img src="https://img.shields.io/badge/Tecnologías-Qiskit%20|%20Q%23%20|%20Java-5C2D91?style=for-the-badge&logo=qiskit&logoColor=white" alt="Tecnologías">
   <img src="https://img.shields.io/badge/Conceptos-Superposición%20|%20Entrelazamiento%20|%20QML-A51890?style=for-the-badge" alt="Conceptos Clave">
 </div>
